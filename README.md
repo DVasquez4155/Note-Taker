@@ -18,7 +18,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ## Installation
 ```npm i```
 ## Usage
-```node index.js```
+```npm start```
 ## Credits
 [<img src="https://avatars0.githubusercontent.com/u/22107830?v=4" width="50"/> Daniel Vasquez Talavera](https://github.com/DVasquez4155)
 ## Contributing
